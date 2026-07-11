@@ -1,0 +1,15 @@
+===================================================
+
+Data Cleaning Portfolio - Python Requirements
+
+Author: Mpho
+
+Install with:
+
+pip install -r requirements.txt
+
+===================================================
+
+pandas
+numpy
+fpdf2
