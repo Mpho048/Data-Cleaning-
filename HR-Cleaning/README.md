@@ -22,6 +22,7 @@ Files
 - "hr_cleaning.py" – Main cleaning script
 - "Clean_hr_report.pdf" – Generated PDF report
 - "hr_attrition_dirty.csv" – Original dataset
+- Clean_hr_data.csv - Cleaned dataset
 - "create_pdf.py" – Shared PDF report module
 
 Technologies
