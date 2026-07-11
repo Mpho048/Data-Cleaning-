@@ -21,7 +21,7 @@ The dataset is not included in this repository because its license does not allo
 
 Please download the dataset named:
 
-"dirty_cafe_sales.csv"
+"retail_store_sales.csv"
 
 from Kaggle and place it inside this project folder before running the script.
 
