@@ -44,7 +44,7 @@ Technologies
 
 How to Run
 
-1. Download "dirty_cafe_sales.csv" from Kaggle.
+1. Download "retail_store_sales.csv" from Kaggle.
 2. Install the required packages:
 
 pip install -r requirements.txt
