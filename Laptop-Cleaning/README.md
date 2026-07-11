@@ -22,6 +22,7 @@ Files
 - "ebay_laptop_cleaning.py" – Main cleaning script
 - "Clean_laptop_data.pdf" – Generated PDF report
 - "EbayPcLaptopsAndNetbooksUnclean.csv" – Original dataset
+- Clean_pclaptop_data.csv - Cleaned dataset
 - "create_pdf.py" – Shared PDF report module
 
 Technologies
